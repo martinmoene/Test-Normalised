@@ -2,8 +2,8 @@ Test-Normalised
 ===============
 
 **Contents**
--[Example heading](#example-heading)
--[More heading](#more-heading)
+-[Example heading](#example-heading)  
+-[More heading](#more-heading)  
 
 Test linebreak plain.
 Test linebreak plain.
