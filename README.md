@@ -1,7 +1,7 @@
 Test-Normalised
 ===============
 
-**Contents**
+**Contents**  
 -[Example heading](#example-heading)  
 -[More heading](#more-heading)  
 
