@@ -25,55 +25,35 @@ Text text
 
 More heading
 ------------
-Text text and a lot of empty lines to enable scrolling.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
+A lot of lines to enable scrolling.
